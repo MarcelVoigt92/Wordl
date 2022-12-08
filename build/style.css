@@ -71,3 +71,12 @@ h1 {
   cursor: pointer;
   text-transform: uppercase;
 }
+
+.restart {
+  margin-top: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}

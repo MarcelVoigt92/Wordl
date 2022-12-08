@@ -5,6 +5,7 @@ let guessesRemaining = NUMBER_OF_GUESSES;
 let currentGuess = [];
 let nextLetter = 0;
 let rightGuessString = WORDS[Math.floor(Math.random() * WORDS.length)];
+const restartGame = document.querySelector(".restart");
 
 console.log(rightGuessString);
 
